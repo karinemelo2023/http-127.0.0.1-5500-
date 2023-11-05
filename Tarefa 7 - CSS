@@ -4,219 +4,35 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tarefa 7 - Seletores CSS</title>
+    <link ref: stylesheet href: style.css>
 </head>
 <style>
-div { 
+div/{ 
     display: inline-block;
     border: 1px solid black;
     width: 200px;
     height: 200px;
     background-color: red
+}
+.vermelho borda{
+    background-color: red;
+}
+.vermelho{
+    background-color: red;
+}
+.azul{
+    background-color:azul;
+}
+.verde{
+    background-color: verde;
+}
+.amarelo{
+    background-color: amarelo;
+}
+#border{
+    background-color: red;
+}
 
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
-div {
-    display:inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
-div {
-    display: inline-block;
-    border: 1px solid black;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color:aqua;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: aqua;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: aqua;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: aqua;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: green;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: green;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: green;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: green;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: yellow;
-}
-div {
-    display: inline-block;
-    border: 1px;
-    width: 200px;
-    height: 200px;
-    background-color: yellow;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: yellow;
-}
-div {
-    display: inline-block;
-    border: 1px;
-    width: 200px;
-    height: 200px;
-    background-color: yellow;
-}
-div  {
-    display: inline-block;
-    border: 1px solid black;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
-div {
-    display: inline-block;
-    border: 1px white;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
-div {
-    display: inline-block;
-    border: 1px solid black;
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
 <body>
     
 </body>
