@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"/>
+    <title>Seletores-Karine Melo.html</title>
+    <style>
+
+        .section {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .div-container {
+            display: flex;
+        }
+
+        .div-container > div {
+            width: 50px; 
+            height: 50px; 
+            text-align: center;
+        }
+
+        .vermelho {
+            background-color: red;
+        }
+
+        .azul {
+            background-color: blue;
+        }
+
+        .verde {
+            background-color: darkgreen;
+        }
+
+        .amarelo {
+            background-color: yellow;
+        }
+
+        .borda {
+            border: 1px solid black;
+        }
+    </style>
+
+    <section>
+        <div class="div-container">
+         <div class="vermelho borda"></div>
+            <div class="vermelho"></div>
+            <div class="vermelho"></div>
+            <div class="vermelho"></div>
+            <div class="vermelho"></div>
+            <div class="vermelho borda"></div>
+            </div>
+           </section>
+
+    <section>
+        <div class="div-container">
+            <div class="vermelho"></div>
+            <div class="azul"></div>
+            <div class="azul"></div>
+            <div class="azul"></div>
+            <div class="azul"></div>
+            <div class="vermelho"></div>
+        </div>
+    </section>
+    
+     <section>
+       <div class="div-container">
+         <div class="vermelho"></div>
+         <div class="verde"></div>
+         <div class="verde"></div>
+         <div class="verde"></div>
+         <div class="verde"></div>
+         <div class="vermelho"></div>
+         </div>
+         </section>
+         
+     <section>
+        <div class="div-container">
+         <div class="vermelho"></div> 
+         <div class="amarelo"></div> 
+         <div class="amarelo"></div>
+         <div class="amarelo"></div>
+         <div class="amarelo"></div>
+         <div class="vermelho"></div>
+         </div>
+         </section>
+         
+      <section>
+        <div class="div-container"> 
+      <div class="vermelho borda"></div>
+          <div class="vermelho"></div>
+          <div class="vermelho"></div>
+          <div class="vermelho"></div>
+          <div class="vermelho"></div>
+          <div class="vermelho borda"></div>
+         </div>
+          </section>
+        
+
+</body>
+</html>
